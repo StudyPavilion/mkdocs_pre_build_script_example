@@ -1,0 +1,7 @@
+site_name: My Docs
+
+plugins:
+- mkdocs-pre-build-script:
+    script:
+      - print1.py #可以替换为其他python文件
+      - ./src/print2.py
