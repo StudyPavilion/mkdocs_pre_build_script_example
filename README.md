@@ -40,7 +40,7 @@ plugins:
 
 > [!tip]
 >
-> python文件路径是相对目录mkdocs_pre_build_script_example的相对路径
+> python文件路径是相对于目录 `mkdocs_pre_build_script_example` 的路径
 
 执行命令
 
